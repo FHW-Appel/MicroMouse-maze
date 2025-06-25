@@ -27,7 +27,7 @@ Das Repository enthält die jeweils **aktuelle Version** aller STL-Dateien. Es w
   STL-Dateien für die standardisierten Innenwände des Maze.
 
 - **Projekt-Infos/**  
-  Enthält diese Datei (`Projektbeschreibung.md`) mit allgemeinen Informationen zum Projekt und zur Nutzung.
+  Enthält diese Datei (`README.md`) mit allgemeinen Informationen zum Projekt und zur Nutzung.
 
 ---
 
