@@ -14,9 +14,6 @@ Das Repository enthält die jeweils **aktuelle Version** aller STL-Dateien. Es w
 
 ### Projektstruktur
 
-- **Außenwandmodule/**  
-  STL-Dateien für die äußeren Wandteile des Maze.
-
 - **Bodenplattenmodule/**  
   STL-Dateien für die Bodenplatten, auf denen Wände und Pfosten montiert werden.
 
