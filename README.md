@@ -31,4 +31,4 @@ Das Repository enthält die jeweils **aktuelle Version** aller STL-Dateien. Es w
 
 ---
 
-Bei Bedarf können die STL-Dateien direkt in gängige Slicer-Software importiert und für den 3D-Druck vorbereitet werden.
+Bei Bedarf können die STL-Dateien direkt in gängige Slicer-Software importiert und für den 3D-Druck vorbereitet werden
